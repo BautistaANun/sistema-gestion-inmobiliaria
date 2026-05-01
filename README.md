@@ -130,7 +130,7 @@ Desde Eclipse
 
 Clonar el repositorio:
 
-git clone https://github.com/tuusuario/sistema-gestion-inmobiliaria.git
+git clone https://github.com/BautistaANun/sistema-gestion-inmobiliaria.git
 
 
 Importar como Existing Java Project
